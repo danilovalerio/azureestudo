@@ -1,4 +1,4 @@
-Muito importante definir qual será a necessidade da disponibilidade é o uso do SLA, de acordo com a necessidade da disponibilidade do projeto.
+Muito importante definir qual será a necessidade da disponibilidade é o uso do SLA (Service Level Agreement), de acordo com a necessidade da disponibilidade do projeto.
 
 O que tiver mais 9 maior disponibilidade, isto é, menos indisponibilidade, por exemplo:
 %   -> tempo de indisponibilidade
